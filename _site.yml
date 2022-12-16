@@ -4,7 +4,7 @@ navbar:
   title: "BST260 Final Project"
   left:
     - text: "Introduction"
-      href: intro.html
+      href: index.html
     - text: "Results"
       href: results.html
     - text: "Conclusion"
