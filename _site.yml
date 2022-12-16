@@ -1,0 +1,15 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "BST260 Final Project"
+  left:
+    - text: "Introduction"
+      href: intro.html
+    - text: "Results"
+      href: results.html
+    - text: "Conclusion"
+      href: con.html
+    - text: "Reference"
+      href: ref.html
+    - text: "Code"
+      href: code.html

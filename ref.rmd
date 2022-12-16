@@ -1,0 +1,11 @@
+---
+title: "Reference"
+---
+1. “About Stroke.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 2 Nov. 2022, www.cdc.gov/stroke/about.htm.
+2. Murphy, Stephen JX., and David J. Werring. “Stroke: Causes and Clinical Features.” Medicine, vol. 48, no. 9, 2020, pp. 561–566., doi:10.1016/j.mpmed.2020.06.002. 
+3. “Stroke Facts.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 14 Oct. 2022, www.cdc.gov/stroke/facts.htm.
+4. “Know Your Risk for Stroke.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 12 Apr. 2022, www.cdc.gov/stroke/risk_factors.htm. 
+5. Fedesoriano. “Stroke Prediction Dataset.” Kaggle, 26 Jan. 2021, www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset. 
+6. “Diagnosis.” American Diabetes Association, diabetes.org/diabetes/a1c/diagnosis. 
+7. American Diabetes Association Professional Practice Committee. “8. Obesity and Weight Management for the Prevention and Treatment of Type 2 Diabetes: Standards of Medical Care in Diabetes-2022.” American Diabetes Association, American Diabetes Association, 16 Dec. 2021, diabetesjournals.org/care/article/45/Supplement_1/S113/138906/8-Obesity-and-Weight-Management-for-the-Prevention. 
+8. Tackling, Gray, and Mahesh B. Borhade. “Hypertensive Heart Disease.” National Library of Medicine, 2022, www.ncbi.nlm.nih.gov/books/NBK539800/. 
